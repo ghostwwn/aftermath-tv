@@ -2,8 +2,6 @@
 
 retro early-2000s satellite-box android tv client for watching **toonami aftermath** live channels, complete with an interactive channel guide, corner pip video, crt scanlines, and live show metadata.
 
-![Aftermath TV Guide Preview](assets/preview.png)
-
 i wanted a proper couch-friendly way to watch toonami aftermath and classic retro cartoon streams on a tv box without dealing with clunky web browsers or kodi menus so i built a native android tv app styled after an early-2000s digital cable / satellite receiver.
 
 > **disclaimer**: this is an independent, unofficial fan project. it is **not affiliated with, endorsed by, or connected to** toonami aftermath, toonami, adult swim, cartoon network, nickelodeon, disney, warner bros. discovery, paramount, vaughn live, or any other network or studio. this repo contains no video or copyrighted media; the app is strictly a player that opens public stream urls listed in `Config.kt`.
