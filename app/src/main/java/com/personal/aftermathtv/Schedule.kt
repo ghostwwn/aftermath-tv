@@ -26,7 +26,7 @@ object Schedule {
     }
 
 
-    /** Builds upcoming programs from a bundled weekly grid (assets/*.json), in the channel's own timezone. */
+    /** Builds upcoming programs from a bundled weekly JSON grid in the channel's own timezone. */
     fun loadWeekly(am: AssetManager, name: String): List<Program> {
         val root = JSONObject(am.open(name).bufferedReader().use { it.readText() })
         val tz = TimeZone.getTimeZone(root.optString("tz", "America/New_York"))
