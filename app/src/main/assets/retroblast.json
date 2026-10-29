@@ -1,0 +1,3029 @@
+{
+ "tz": "America/New_York",
+ "weekly": {
+  "mon": [
+   {
+    "t": "00:00",
+    "title": "Sealab 2021",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "00:25",
+    "title": "Deadman Wonderland",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "00:50",
+    "title": "Ghost in the Shell SAC",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Ghost in the Shell: Stand Alone Complex",
+    "note": ""
+   },
+   {
+    "t": "01:15",
+    "title": "Cowboy Bebop",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "01:40",
+    "title": "Shin Chan",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Crayon Shin-chan",
+    "note": ""
+   },
+   {
+    "t": "02:05",
+    "title": "FMA Brotherhood",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Fullmetal Alchemist: Brotherhood",
+    "note": ""
+   },
+   {
+    "t": "02:30",
+    "title": "Death Note",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:00",
+    "title": "Check it Out",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Check It Out! with Dr. Steve Brule",
+    "note": ""
+   },
+   {
+    "t": "03:13",
+    "title": "Eric Andre",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "The Eric Andre Show",
+    "note": ""
+   },
+   {
+    "t": "03:25",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "03:50",
+    "title": "The Boondocks",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:15",
+    "title": "Home Movies",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:40",
+    "title": "Harvey Birdman",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Harvey Birdman, Attorney at Law",
+    "note": ""
+   },
+   {
+    "t": "05:05",
+    "title": "King of the Hill",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:30",
+    "title": "Futurama",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:55",
+    "title": "Animaniacs",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "06:20",
+    "title": "Power Rangers",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Mighty Morphin Power Rangers",
+    "note": ""
+   },
+   {
+    "t": "06:45",
+    "title": "Batman TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Batman: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:10",
+    "title": "X-Men TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "X-Men: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:35",
+    "title": "Totally Spies",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:00",
+    "title": "Code Lyoko",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:25",
+    "title": "TMNT (2003)",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Teenage Mutant Ninja Turtles",
+    "note": ""
+   },
+   {
+    "t": "08:50",
+    "title": "Teen Titans",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:15",
+    "title": "Pokemon Advanced",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Pokémon",
+    "note": ""
+   },
+   {
+    "t": "09:40",
+    "title": "Yu-Gi-Oh! GX",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:05",
+    "title": "The Cartoon Cartoon Show",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:30",
+    "title": "Ben 10",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:55",
+    "title": "Xiaolin Showdown",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "11:20",
+    "title": "KND",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Codename: Kids Next Door",
+    "note": ""
+   },
+   {
+    "t": "11:45",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "12:10",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "12:35",
+    "title": "Juniper Lee",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Life and Times of Juniper Lee",
+    "note": ""
+   },
+   {
+    "t": "13:00",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "13:25",
+    "title": "Samurai Jack",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "13:50",
+    "title": "Camp Lazlo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "14:15",
+    "title": "PPG",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Powerpuff Girls",
+    "note": ""
+   },
+   {
+    "t": "14:40",
+    "title": "Star Wars The Clone Wars",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Star Wars: The Clone Wars",
+    "note": ""
+   },
+   {
+    "t": "15:05",
+    "title": "Hi Hi Puffy AmiYumi",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:30",
+    "title": "Justice League",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:55",
+    "title": "Sailor Moon",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "16:20",
+    "title": "YuYu",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Yu Yu Hakusho",
+    "note": ""
+   },
+   {
+    "t": "16:45",
+    "title": "Dragon Ball",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:10",
+    "title": "Bobobo-bo Bo-bobo",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:35",
+    "title": "Outlaw Star",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "18:00",
+    "title": "DBZ",
+    "block": "Toonami",
+    "ep": "Run A",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "18:25",
+    "title": "One Piece",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "18:50",
+    "title": "Naruto/Shippuden",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Naruto Shippuden",
+    "note": ""
+   },
+   {
+    "t": "19:15",
+    "title": "Retro Blast Halloween",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "21:45",
+    "title": "Teen Titans",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "22:10",
+    "title": "DBZ",
+    "block": "Cartoon Network",
+    "ep": "Run B",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "22:35",
+    "title": "Naruto",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:00",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "23:25",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:47",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   }
+  ],
+  "tue": [
+   {
+    "t": "00:00",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "00:13",
+    "title": "Tom Goes to the Mayor",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "00:25",
+    "title": "Hellsing",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Hellsing Ultimate",
+    "note": ""
+   },
+   {
+    "t": "01:15",
+    "title": "Bleach TYBW",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Bleach: Thousand-Year Blood War",
+    "note": ""
+   },
+   {
+    "t": "01:40",
+    "title": "Black Lagoon",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:05",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "02:30",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:49",
+    "title": "On Cinema",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "On Cinema at the Cinema",
+    "note": ""
+   },
+   {
+    "t": "03:00",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:13",
+    "title": "Aqua Teen",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "03:25",
+    "title": "King of the Hill",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:50",
+    "title": "Bleach TYBW",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Bleach: Thousand-Year Blood War",
+    "note": ""
+   },
+   {
+    "t": "04:15",
+    "title": "JoJo's Bizarre Adventure",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:40",
+    "title": "Inuyasha",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:05",
+    "title": "Lupin the Third Part II",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:30",
+    "title": "Case Closed",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:55",
+    "title": "Animaniacs",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "06:20",
+    "title": "Power Rangers",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Mighty Morphin Power Rangers",
+    "note": ""
+   },
+   {
+    "t": "06:45",
+    "title": "Batman TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Batman: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:10",
+    "title": "X-Men TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "X-Men: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:35",
+    "title": "Totally Spies",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:00",
+    "title": "Code Lyoko",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:25",
+    "title": "TMNT (2003)",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Teenage Mutant Ninja Turtles",
+    "note": ""
+   },
+   {
+    "t": "08:50",
+    "title": "Teen Titans",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:15",
+    "title": "Pokemon Advanced",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Pokémon",
+    "note": ""
+   },
+   {
+    "t": "09:40",
+    "title": "Yu-Gi-Oh! GX",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:05",
+    "title": "Tom and Jerry",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:30",
+    "title": "Duck Dodgers",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:55",
+    "title": "Robot Boy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Robotboy",
+    "note": ""
+   },
+   {
+    "t": "11:20",
+    "title": "Johnny Bravo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "11:45",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "12:10",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "12:35",
+    "title": "Camp Lazlo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "13:00",
+    "title": "PPG",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Powerpuff Girls",
+    "note": ""
+   },
+   {
+    "t": "13:25",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "13:50",
+    "title": "Dexter's Lab",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Dexter's Laboratory",
+    "note": ""
+   },
+   {
+    "t": "14:15",
+    "title": "Scooby-Doo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "14:40",
+    "title": "Courage",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Courage the Cowardly Dog",
+    "note": ""
+   },
+   {
+    "t": "15:05",
+    "title": "Pokémon Advanced",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:30",
+    "title": "Yu-Gi-Oh! DM",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Yu-Gi-Oh!",
+    "note": ""
+   },
+   {
+    "t": "15:55",
+    "title": "Sailor Moon",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "16:20",
+    "title": "YuYu",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Yu Yu Hakusho",
+    "note": ""
+   },
+   {
+    "t": "16:45",
+    "title": "Gundam Wing",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Mobile Suit Gundam Wing",
+    "note": ""
+   },
+   {
+    "t": "17:10",
+    "title": "Justice League",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:35",
+    "title": "Zatch Bell",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Zatch Bell!",
+    "note": ""
+   },
+   {
+    "t": "18:00",
+    "title": "DBZ",
+    "block": "Toonami",
+    "ep": "Run A",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "18:25",
+    "title": "One Piece",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "18:50",
+    "title": "Naruto/Shippuden",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Naruto Shippuden",
+    "note": ""
+   },
+   {
+    "t": "19:15",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "19:40",
+    "title": "KND",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Codename: Kids Next Door",
+    "note": ""
+   },
+   {
+    "t": "20:05",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "20:30",
+    "title": "Hi Hi Puffy AmiYumi",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "20:55",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "21:20",
+    "title": "Yu-Gi-Oh! DM",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Yu-Gi-Oh!",
+    "note": ""
+   },
+   {
+    "t": "21:45",
+    "title": "Teen Titans",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "22:10",
+    "title": "DBZ",
+    "block": "Cartoon Network",
+    "ep": "Run B",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "22:35",
+    "title": "Naruto",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:00",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "23:25",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:47",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   }
+  ],
+  "wed": [
+   {
+    "t": "00:00",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "00:13",
+    "title": "Tim and Eric",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Tim and Eric Awesome Show, Great Job!",
+    "note": ""
+   },
+   {
+    "t": "00:25",
+    "title": "Hellsing",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Hellsing Ultimate",
+    "note": ""
+   },
+   {
+    "t": "01:15",
+    "title": "Black Lagoon",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "01:40",
+    "title": "Cowboy Bebop",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:05",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "02:30",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:49",
+    "title": "On Cinema",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "On Cinema at the Cinema",
+    "note": ""
+   },
+   {
+    "t": "03:00",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:13",
+    "title": "Aqua Teen",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "03:25",
+    "title": "King of the Hill",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:50",
+    "title": "Bleach TYBW",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Bleach: Thousand-Year Blood War",
+    "note": ""
+   },
+   {
+    "t": "04:15",
+    "title": "JoJo's Bizarre Adventure",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:40",
+    "title": "Inuyasha",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:05",
+    "title": "Lupin the Third Part II",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:30",
+    "title": "Case Closed",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:55",
+    "title": "Animaniacs",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "06:20",
+    "title": "Power Rangers",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Mighty Morphin Power Rangers",
+    "note": ""
+   },
+   {
+    "t": "06:45",
+    "title": "Batman TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Batman: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:10",
+    "title": "X-Men TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "X-Men: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:35",
+    "title": "Totally Spies",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:00",
+    "title": "Code Lyoko",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:25",
+    "title": "TMNT (2003)",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Teenage Mutant Ninja Turtles",
+    "note": ""
+   },
+   {
+    "t": "08:50",
+    "title": "Teen Titans",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:15",
+    "title": "Pokemon Advanced",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Pokémon",
+    "note": ""
+   },
+   {
+    "t": "09:40",
+    "title": "Yu-Gi-Oh! GX",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:05",
+    "title": "The Cartoon Cartoon Show",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:30",
+    "title": "Ben 10",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:55",
+    "title": "Xiaolin Showdown",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "11:20",
+    "title": "KND",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Codename: Kids Next Door",
+    "note": ""
+   },
+   {
+    "t": "11:45",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "12:10",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "12:35",
+    "title": "Juniper Lee",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Life and Times of Juniper Lee",
+    "note": ""
+   },
+   {
+    "t": "13:00",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "13:25",
+    "title": "Samurai Jack",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "13:50",
+    "title": "Camp Lazlo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "14:15",
+    "title": "PPG",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Powerpuff Girls",
+    "note": ""
+   },
+   {
+    "t": "14:40",
+    "title": "Star Wars The Clone Wars",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Star Wars: The Clone Wars",
+    "note": ""
+   },
+   {
+    "t": "15:05",
+    "title": "Hi Hi Puffy AmiYumi",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:30",
+    "title": "Justice League",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:55",
+    "title": "Sailor Moon",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "16:20",
+    "title": "YuYu",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Yu Yu Hakusho",
+    "note": ""
+   },
+   {
+    "t": "16:45",
+    "title": "Dragon Ball",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:10",
+    "title": "Bobobo-bo Bo-bobo",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:35",
+    "title": "Outlaw Star",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "18:00",
+    "title": "DBZ",
+    "block": "Toonami",
+    "ep": "Run A",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "18:25",
+    "title": "One Piece",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "18:50",
+    "title": "Naruto/Shippuden",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Naruto Shippuden",
+    "note": ""
+   },
+   {
+    "t": "19:15",
+    "title": "Retro Blast Halloween",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "22:10",
+    "title": "DBZ",
+    "block": "Cartoon Network",
+    "ep": "Run B",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "22:35",
+    "title": "Naruto",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:00",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "23:25",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:47",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   }
+  ],
+  "thu": [
+   {
+    "t": "00:00",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "00:13",
+    "title": "Tom Goes to the Mayor",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "00:25",
+    "title": "Hellsing",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Hellsing Ultimate",
+    "note": ""
+   },
+   {
+    "t": "00:50",
+    "title": "Bleach TYBW",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Bleach: Thousand-Year Blood War",
+    "note": ""
+   },
+   {
+    "t": "01:15",
+    "title": "Black Lagoon",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "01:40",
+    "title": "Cowboy Bebop",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:05",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "02:30",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:49",
+    "title": "On Cinema",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "On Cinema at the Cinema",
+    "note": ""
+   },
+   {
+    "t": "03:00",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:13",
+    "title": "Aqua Teen",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "03:25",
+    "title": "King of the Hill",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:50",
+    "title": "Bleach TYBW",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Bleach: Thousand-Year Blood War",
+    "note": ""
+   },
+   {
+    "t": "04:15",
+    "title": "JoJo's Bizarre Adventure",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:40",
+    "title": "Inuyasha",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:05",
+    "title": "Lupin the Third Part II",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:30",
+    "title": "Case Closed",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:55",
+    "title": "Animaniacs",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "06:20",
+    "title": "Power Rangers",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Mighty Morphin Power Rangers",
+    "note": ""
+   },
+   {
+    "t": "06:45",
+    "title": "Batman TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Batman: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:10",
+    "title": "X-Men TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "X-Men: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:35",
+    "title": "Totally Spies",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:00",
+    "title": "Code Lyoko",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:25",
+    "title": "TMNT (2003)",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Teenage Mutant Ninja Turtles",
+    "note": ""
+   },
+   {
+    "t": "08:50",
+    "title": "Teen Titans",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:15",
+    "title": "Pokemon Advanced",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Pokémon",
+    "note": ""
+   },
+   {
+    "t": "09:40",
+    "title": "Yu-Gi-Oh! GX",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:05",
+    "title": "Tom and Jerry",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:30",
+    "title": "Duck Dodgers",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:55",
+    "title": "Robot Boy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Robotboy",
+    "note": ""
+   },
+   {
+    "t": "11:20",
+    "title": "Johnny Bravo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "11:45",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "12:10",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "12:35",
+    "title": "Camp Lazlo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "13:00",
+    "title": "PPG",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Powerpuff Girls",
+    "note": ""
+   },
+   {
+    "t": "13:25",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "13:50",
+    "title": "Dexter's Lab",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Dexter's Laboratory",
+    "note": ""
+   },
+   {
+    "t": "14:15",
+    "title": "Scooby-Doo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "14:40",
+    "title": "Courage",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Courage the Cowardly Dog",
+    "note": ""
+   },
+   {
+    "t": "15:05",
+    "title": "Pokémon Advanced",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:30",
+    "title": "Yu-Gi-Oh! DM",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Yu-Gi-Oh!",
+    "note": ""
+   },
+   {
+    "t": "15:55",
+    "title": "Sailor Moon",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "16:20",
+    "title": "YuYu",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Yu Yu Hakusho",
+    "note": ""
+   },
+   {
+    "t": "16:45",
+    "title": "Gundam Wing",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Mobile Suit Gundam Wing",
+    "note": ""
+   },
+   {
+    "t": "17:10",
+    "title": "Justice League",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:35",
+    "title": "Zatch Bell",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Zatch Bell!",
+    "note": ""
+   },
+   {
+    "t": "18:00",
+    "title": "DBZ",
+    "block": "Toonami",
+    "ep": "Run A",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "18:25",
+    "title": "One Piece",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "18:50",
+    "title": "Naruto/Shippuden",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Naruto Shippuden",
+    "note": ""
+   },
+   {
+    "t": "19:15",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "19:40",
+    "title": "KND",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Codename: Kids Next Door",
+    "note": ""
+   },
+   {
+    "t": "20:05",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "20:30",
+    "title": "Hi Hi Puffy AmiYumi",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "20:55",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "21:20",
+    "title": "Yu-Gi-Oh! DM",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Yu-Gi-Oh!",
+    "note": ""
+   },
+   {
+    "t": "21:45",
+    "title": "Teen Titans",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "22:10",
+    "title": "DBZ",
+    "block": "Cartoon Network",
+    "ep": "Run B",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "22:35",
+    "title": "Naruto",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:00",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "23:25",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:47",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   }
+  ],
+  "fri": [
+   {
+    "t": "00:00",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "00:13",
+    "title": "Tim and Eric",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Tim and Eric Awesome Show, Great Job!",
+    "note": ""
+   },
+   {
+    "t": "00:25",
+    "title": "Hellsing",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Hellsing Ultimate",
+    "note": ""
+   },
+   {
+    "t": "00:50",
+    "title": "Bleach TYBW",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Bleach: Thousand-Year Blood War",
+    "note": ""
+   },
+   {
+    "t": "01:15",
+    "title": "Hellsing",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Hellsing Ultimate",
+    "note": ""
+   },
+   {
+    "t": "01:40",
+    "title": "Cowboy Bebop",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:05",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "02:30",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:49",
+    "title": "On Cinema",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "On Cinema at the Cinema",
+    "note": ""
+   },
+   {
+    "t": "03:00",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:13",
+    "title": "Aqua Teen",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "03:25",
+    "title": "King of the Hill",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:50",
+    "title": "Bleach TYBW",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Bleach: Thousand-Year Blood War",
+    "note": ""
+   },
+   {
+    "t": "04:15",
+    "title": "JoJo's Bizarre Adventure",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:40",
+    "title": "Inuyasha",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:05",
+    "title": "Lupin the Third Part II",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:30",
+    "title": "Case Closed",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:55",
+    "title": "Animaniacs",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "06:20",
+    "title": "Power Rangers",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Mighty Morphin Power Rangers",
+    "note": ""
+   },
+   {
+    "t": "06:45",
+    "title": "Batman TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Batman: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:10",
+    "title": "X-Men TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "X-Men: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "07:35",
+    "title": "Totally Spies",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:00",
+    "title": "Code Lyoko",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:25",
+    "title": "TMNT (2003)",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Teenage Mutant Ninja Turtles",
+    "note": ""
+   },
+   {
+    "t": "08:50",
+    "title": "Teen Titans",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:15",
+    "title": "Pokemon Advanced",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Pokémon",
+    "note": ""
+   },
+   {
+    "t": "09:40",
+    "title": "Yu-Gi-Oh! GX",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:05",
+    "title": "The Cartoon Cartoon Show",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:30",
+    "title": "Ben 10",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:55",
+    "title": "Xiaolin Showdown",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "11:20",
+    "title": "KND",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Codename: Kids Next Door",
+    "note": ""
+   },
+   {
+    "t": "11:45",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "12:10",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "12:35",
+    "title": "Juniper Lee",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Life and Times of Juniper Lee",
+    "note": ""
+   },
+   {
+    "t": "13:00",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "13:25",
+    "title": "Samurai Jack",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "13:50",
+    "title": "Camp Lazlo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "14:15",
+    "title": "PPG",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Powerpuff Girls",
+    "note": ""
+   },
+   {
+    "t": "14:40",
+    "title": "Star Wars The Clone Wars",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Star Wars: The Clone Wars",
+    "note": ""
+   },
+   {
+    "t": "15:05",
+    "title": "Hi Hi Puffy AmiYumi",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:30",
+    "title": "Justice League",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:55",
+    "title": "Sailor Moon",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "16:20",
+    "title": "YuYu",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Yu Yu Hakusho",
+    "note": ""
+   },
+   {
+    "t": "16:45",
+    "title": "Dragon Ball",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:10",
+    "title": "Bobobo-bo Bo-bobo",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:35",
+    "title": "Zatch Bell",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Zatch Bell!",
+    "note": ""
+   },
+   {
+    "t": "18:00",
+    "title": "DBZ",
+    "block": "Toonami",
+    "ep": "Run A",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "18:25",
+    "title": "One Piece",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "18:50",
+    "title": "Naruto/Shippuden",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Naruto Shippuden",
+    "note": ""
+   },
+   {
+    "t": "19:15",
+    "title": "Fridays Halloween",
+    "block": "Fridays",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "23:00",
+    "title": "Adult Halloween Specials",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": ""
+   },
+   {
+    "t": "23:47",
+    "title": "Harvey Birdman",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Harvey Birdman, Attorney at Law",
+    "note": ""
+   }
+  ],
+  "sat": [
+   {
+    "t": "00:00",
+    "title": "Harvey Birdman",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Harvey Birdman, Attorney at Law",
+    "note": ""
+   },
+   {
+    "t": "00:13",
+    "title": "Metalocalypse",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "00:25",
+    "title": "The Boondocks",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "00:50",
+    "title": "Home Movies",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "01:15",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "01:40",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "02:05",
+    "title": "Harvey Birdman",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Harvey Birdman, Attorney at Law",
+    "note": ""
+   },
+   {
+    "t": "02:30",
+    "title": "Metalocalypse",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:49",
+    "title": "Space Ghost",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Space Ghost Coast to Coast",
+    "note": ""
+   },
+   {
+    "t": "03:00",
+    "title": "Eric Andre",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "The Eric Andre Show",
+    "note": ""
+   },
+   {
+    "t": "03:25",
+    "title": "Tim and Eric",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Tim and Eric Awesome Show, Great Job!",
+    "note": ""
+   },
+   {
+    "t": "04:15",
+    "title": "Shin Chan",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Crayon Shin-chan",
+    "note": ""
+   },
+   {
+    "t": "05:05",
+    "title": "The Boondocks",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:30",
+    "title": "Home Movies",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:55",
+    "title": "Boomerang",
+    "block": "Boomerang",
+    "ep": "",
+    "lookup": "-",
+    "note": "Hour 1: Looney Tunes, The Flintstones, Smurfs  |  Hour 2: Yogi Bear, Huckleberry Hound, Hong Kong Phooey, The Jetsons  |  Hour 3: Birdman and the Galaxy Trio, Jonny Quest, Josie and the Pussycats"
+   },
+   {
+    "t": "08:25",
+    "title": "Scooby-Doo",
+    "block": "Boomerang",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:50",
+    "title": "Tom and Jerry",
+    "block": "Boomerang",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:15",
+    "title": "The Cartoon Cartoon Show",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:40",
+    "title": "Scooby-Doo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:05",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "10:30",
+    "title": "Hi Hi Puffy AmiYumi",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:55",
+    "title": "Batman TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Batman: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "11:20",
+    "title": "Avatar TLA",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Avatar: The Last Airbender",
+    "note": ""
+   },
+   {
+    "t": "12:10",
+    "title": "Cartoon Theater",
+    "block": "Cartoon Films",
+    "ep": "",
+    "lookup": "-",
+    "note": "Randomly curated. Movies are announced on Discord."
+   },
+   {
+    "t": "14:15",
+    "title": "Mucha Lucha",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Mucha Lucha!",
+    "note": ""
+   },
+   {
+    "t": "14:40",
+    "title": "Yu-Gi-Oh! 5D's",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:05",
+    "title": "Digimon Adventure",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:30",
+    "title": "Totally Spies",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:55",
+    "title": "Static Shock",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "16:20",
+    "title": "KND",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Codename: Kids Next Door",
+    "note": ""
+   },
+   {
+    "t": "16:45",
+    "title": "Megas XLR",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:10",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "17:35",
+    "title": "PPG",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Powerpuff Girls",
+    "note": ""
+   },
+   {
+    "t": "18:00",
+    "title": "Courage",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Courage the Cowardly Dog",
+    "note": ""
+   },
+   {
+    "t": "18:25",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "18:50",
+    "title": "Batman Beyond",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "19:15",
+    "title": "Jackie Chan Adventures",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "19:40",
+    "title": "Teen Titans",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "20:05",
+    "title": "Maul Shadow Lord",
+    "block": "Toonami",
+    "ep": "New series",
+    "lookup": "Star Wars: Maul - Shadow Lord",
+    "note": ""
+   },
+   {
+    "t": "20:30",
+    "title": "X-Men '97",
+    "block": "Toonami",
+    "ep": "New episodes",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "20:55",
+    "title": "Zatch Bell",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Zatch Bell!",
+    "note": ""
+   },
+   {
+    "t": "21:20",
+    "title": "DBZ",
+    "block": "Toonami",
+    "ep": "Run B",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "21:45",
+    "title": "One Piece",
+    "block": "Toonami",
+    "ep": "Run B",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "22:10",
+    "title": "Naruto",
+    "block": "Toonami",
+    "ep": "Run B",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "22:35",
+    "title": "Justice League",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:00",
+    "title": "Futurama",
+    "block": "Adult Swim",
+    "ep": "New episodes",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:25",
+    "title": "King of the Hill",
+    "block": "Adult Swim",
+    "ep": "New episodes",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:47",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   }
+  ],
+  "sun": [
+   {
+    "t": "00:00",
+    "title": "Horror Movie",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "-",
+    "note": "Randomly curated. Movies are announced on Discord."
+   },
+   {
+    "t": "01:40",
+    "title": "The Boondocks",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "02:30",
+    "title": "Space Ghost Coast to Coast",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:00",
+    "title": "Harvey Birdman",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Harvey Birdman, Attorney at Law",
+    "note": ""
+   },
+   {
+    "t": "03:25",
+    "title": "Family Guy",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "03:50",
+    "title": "King of the Hill",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:15",
+    "title": "Robot Chicken",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "04:40",
+    "title": "ATHF",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "Aqua Teen Hunger Force",
+    "note": ""
+   },
+   {
+    "t": "05:05",
+    "title": "The Boondocks",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:30",
+    "title": "Home Movies",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "05:55",
+    "title": "Boomerang",
+    "block": "Boomerang",
+    "ep": "",
+    "lookup": "-",
+    "note": "Hour 1: Looney Tunes, The Flintstones, Smurfs  |  Hour 2: Yogi Bear, Huckleberry Hound, Hong Kong Phooey, The Jetsons  |  Hour 3: Birdman and the Galaxy Trio, Jonny Quest, Josie and the Pussycats"
+   },
+   {
+    "t": "08:25",
+    "title": "Scooby-Doo",
+    "block": "Boomerang",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "08:50",
+    "title": "Tom and Jerry",
+    "block": "Boomerang",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:15",
+    "title": "The Cartoon Cartoon Show",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "09:40",
+    "title": "Scooby-Doo",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:05",
+    "title": "Fosters",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Foster's Home for Imaginary Friends",
+    "note": ""
+   },
+   {
+    "t": "10:30",
+    "title": "Hi Hi Puffy AmiYumi",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "10:55",
+    "title": "Batman TAS",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Batman: The Animated Series",
+    "note": ""
+   },
+   {
+    "t": "11:20",
+    "title": "Avatar TLA",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Avatar: The Last Airbender",
+    "note": ""
+   },
+   {
+    "t": "12:10",
+    "title": "Cartoon Theater",
+    "block": "Cartoon Films",
+    "ep": "",
+    "lookup": "-",
+    "note": "Randomly curated. Movies are announced on Discord."
+   },
+   {
+    "t": "14:15",
+    "title": "Mucha Lucha",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Mucha Lucha!",
+    "note": ""
+   },
+   {
+    "t": "14:40",
+    "title": "Yu-Gi-Oh! 5D's",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:05",
+    "title": "Digimon Adventure",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:30",
+    "title": "Totally Spies",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "15:55",
+    "title": "Static Shock",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "16:20",
+    "title": "KND",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "Codename: Kids Next Door",
+    "note": ""
+   },
+   {
+    "t": "16:45",
+    "title": "Megas XLR",
+    "block": "Miguzi",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "17:10",
+    "title": "Billy and Mandy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Grim Adventures of Billy & Mandy",
+    "note": ""
+   },
+   {
+    "t": "17:35",
+    "title": "PPG",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "The Powerpuff Girls",
+    "note": ""
+   },
+   {
+    "t": "18:00",
+    "title": "Courage",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Courage the Cowardly Dog",
+    "note": ""
+   },
+   {
+    "t": "18:25",
+    "title": "Ed Edd n Eddy",
+    "block": "Cartoon Network",
+    "ep": "",
+    "lookup": "Ed, Edd n Eddy",
+    "note": ""
+   },
+   {
+    "t": "18:50",
+    "title": "Batman Beyond",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "19:15",
+    "title": "Jackie Chan",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "19:40",
+    "title": "Teen Titans",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "20:05",
+    "title": "Yu-Gi-Oh! GX",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "20:30",
+    "title": "IGPX",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "20:55",
+    "title": "Zatch Bell",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "Zatch Bell!",
+    "note": ""
+   },
+   {
+    "t": "21:20",
+    "title": "DBZ",
+    "block": "Toonami",
+    "ep": "Run B",
+    "lookup": "Dragon Ball Z",
+    "note": ""
+   },
+   {
+    "t": "21:45",
+    "title": "One Piece",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "22:10",
+    "title": "Naruto",
+    "block": "Toonami",
+    "ep": "Season 1",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "22:35",
+    "title": "Justice League",
+    "block": "Toonami",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:00",
+    "title": "Space Ghost C2C",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:25",
+    "title": "Futurama",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   },
+   {
+    "t": "23:47",
+    "title": "The Boondocks",
+    "block": "Adult Swim",
+    "ep": "",
+    "lookup": "",
+    "note": ""
+   }
+  ]
+ },
+ "dated": {
+  "halloween": {
+   "2026-10-16": "7:00 Foster's: Bloooo  *  7:30 KND: Operation B.U.L.L.I.E.S. / F.I.S.H.Y.  *  8:00 KND: Operation B.R.E.A.K.U.P. / S.A.F.A.R.I.  *  8:30 Billy & Mandy: Prank Call of Cthulhu  *  9:00 The Haunted Pumpkin of Sleepy Hollow  *  10:00 Billy & Mandy: Jacked Up Halloween  *  10:30 Hi Hi Puffy AmiYumi: Domo / Yumi Goes Solo / Cat Feud",
+   "2026-10-19": "Johnny Bravo  *  Courage  *  Foster's: Nightmare on Wilson Way  *  Ed, Edd n Eddy's Jacked Up Halloween  *  Pokémon",
+   "2026-10-21": "Hocus Pocus  *  Halloweentown",
+   "2026-10-23": "7:00 Foster's: Nightmare on Wilson Way  *  7:30 Scary Godmother Halloween Spectacular  *  8:30 Billy & Mandy (TBA)  *  9:00 Billy & Mandy: Jacked Up Halloween  *  9:30 Scary Godmother: Revenge of Jimmy  *  10:30 Camp Lazlo: Hallobeanies",
+   "2026-10-26": "Scooby-Doo  *  Courage  *  Little Shop of Horrors  *  Johnny Bravo",
+   "2026-10-28": "7:00 Hamtaro  *  7:30 Teen Titans: Haunted  *  8:00 Ben 10: Ghostfreaked Out  *  8:30 Ben 10: The Return  *  9:00 Ben 10: Be Afraid of the Dark",
+   "2026-10-29": "7:00 Class of 3000: The Hunt for Red Blobtober  *  7:30 Batman TAS: Nothing to Fear  *  8:00 Powerpuff Girls: Speed Demon / Tough Love  *  8:30 KND: Operation T.R.I.C.K.Y.  *  8:45 Scooby-Doo and the Alien Invaders",
+   "2026-10-30": "7:00 Sunny Bridges: From Bankhead to Buckhead  *  7:15 Billy & Mandy  *  7:30 Jacked Up Halloween  *  8:00 Boo-Ha-Ha  *  8:30 Courage  *  9:00 Scooby-Doo and the Witch's Ghost  *  10:10 Camp Lazlo Halloween  *  10:30 Juniper Lee: It's the Great Pumpkin Juniper Lee",
+   "2026-10-31": "Special Halloween schedule on Halloween night"
+  },
+  "theater": {
+   "2026-10-17": "Scooby-Doo and the Cyberchase",
+   "2026-10-18": "The Batman vs. Dracula  *  Batman TAS: Nothing to Fear",
+   "2026-10-24": "Kiki's Delivery Service",
+   "2026-10-25": "Scooby-Doo on Zombie Island"
+  },
+  "horror": {
+   "2026-10-04": "Halloween (1978), hosted by Svengoolie",
+   "2026-10-11": "Halloween III: Season of the Witch, hosted by Svengoolie",
+   "2026-10-18": "The Texas Chainsaw Massacre, hosted by Elvira, Mistress of the Dark",
+   "2026-10-25": "Scream, hosted by the cast of Scary Movie",
+   "2026-11-01": "The Rocky Horror Picture Show, hosted by Meatloaf"
+  }
+ }
+}
